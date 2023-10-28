@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:DataProcessor xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="513f991e-0447-4e3e-83ed-e6f896a10da0">
+  <producedTypes>
+    <objectType typeId="be872775-259d-4c1c-9bfb-26a1bc8d6996" valueTypeId="efbb5294-e39a-4555-bee7-664c63b1806b"/>
+    <managerType typeId="178dd193-f9d8-4f35-87f1-3111455e5c6b" valueTypeId="fea880de-6ff6-4941-a9db-9fe81ab458a8"/>
+  </producedTypes>
+  <name>ВыгрузкаЗагрузкаДемо</name>
+  <synonym>
+    <key>ru</key>
+    <value>Выгрузка загрузка демо</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+</mdclass:DataProcessor>

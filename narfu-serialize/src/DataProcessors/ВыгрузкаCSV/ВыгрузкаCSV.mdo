@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:DataProcessor xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="16a55201-9ca1-40d3-9795-d28318a2811e">
+  <producedTypes>
+    <objectType typeId="824ad002-0e74-4af2-8b61-d95c6a2827a6" valueTypeId="687c88c2-2c0b-4a81-9451-3c712d2a5b66"/>
+    <managerType typeId="16887388-a4b7-42d4-994c-900b62f18633" valueTypeId="8e17cd56-ac32-4e19-a79e-e93d694f18eb"/>
+  </producedTypes>
+  <name>ВыгрузкаCSV</name>
+  <synonym>
+    <key>ru</key>
+    <value>Выгрузка CSV</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+</mdclass:DataProcessor>

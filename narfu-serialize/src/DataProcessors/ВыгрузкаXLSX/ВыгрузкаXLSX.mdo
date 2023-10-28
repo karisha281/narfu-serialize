@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:DataProcessor xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="9cb62398-e560-4cb0-9949-64af9937e39a">
+  <producedTypes>
+    <objectType typeId="a43af26c-9bf5-4a46-ba19-b2a8d131899d" valueTypeId="18e43a8c-74c1-4374-9bd3-26ff54fa290a"/>
+    <managerType typeId="550d92c0-b276-4da2-97e5-a4eeff44410e" valueTypeId="1b327448-522f-4b13-bd2d-6dcb45498ae2"/>
+  </producedTypes>
+  <name>ВыгрузкаXLSX</name>
+  <synonym>
+    <key>ru</key>
+    <value>Выгрузка XLSX</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+</mdclass:DataProcessor>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:DataProcessor xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="80ae64bc-9fb2-4ffb-8957-21c997e13c06">
+  <producedTypes>
+    <objectType typeId="ef309a22-02b7-46d6-a35e-a914b9c72415" valueTypeId="dff3fa90-bff6-4cba-8b57-75719128d721"/>
+    <managerType typeId="01779f7d-39d4-4d83-8e72-f66a6d65b5ae" valueTypeId="fbedfc44-b732-44e8-a62e-2e0fbcd4f471"/>
+  </producedTypes>
+  <name>ВыгрузкаZIP</name>
+  <synonym>
+    <key>ru</key>
+    <value>Выгрузка ZIP</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+</mdclass:DataProcessor>

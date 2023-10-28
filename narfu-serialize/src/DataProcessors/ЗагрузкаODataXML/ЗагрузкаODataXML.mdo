@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:DataProcessor xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="007e02b4-0bf0-40fb-8610-9ebe47dd2448">
+  <producedTypes>
+    <objectType typeId="1d460614-4fb3-4a76-bc12-f0dd8f0066a0" valueTypeId="ecf1020c-a17c-4da6-bcb7-f8a2a5c1f426"/>
+    <managerType typeId="9f3a688e-fb16-4e06-abab-7f78fae38ce9" valueTypeId="856cf2a9-59bd-4ce7-bfbe-e49bf002eb15"/>
+  </producedTypes>
+  <name>ЗагрузкаODataXML</name>
+  <synonym>
+    <key>ru</key>
+    <value>Загрузка OData XML</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+</mdclass:DataProcessor>

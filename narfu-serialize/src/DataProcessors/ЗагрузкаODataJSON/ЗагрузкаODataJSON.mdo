@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:DataProcessor xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="cc54b5e9-61f1-4d17-94b5-85597c792de5">
+  <producedTypes>
+    <objectType typeId="f9a14994-a5dd-48b0-bffa-ae3483e14ef3" valueTypeId="a6fb523c-1e1c-4bf5-942d-1a32c915bc9c"/>
+    <managerType typeId="26492ca0-cfe6-4982-a8d8-3f947215f073" valueTypeId="9f732a1f-5a39-40a7-9afb-6af061e49be8"/>
+  </producedTypes>
+  <name>ЗагрузкаODataJSON</name>
+  <synonym>
+    <key>ru</key>
+    <value>Загрузка OData JSON</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+</mdclass:DataProcessor>
