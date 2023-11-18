@@ -10,4 +10,21 @@
     <value>Выгрузка XLSX</value>
   </synonym>
   <useStandardCommands>true</useStandardCommands>
+  <defaultForm>DataProcessor.ВыгрузкаXLSX.Form.Форма</defaultForm>
+  <forms uuid="ce05088a-a869-43dd-9241-3c436f1c492c">
+    <name>Форма</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+  <templates uuid="9af8e863-f373-4a5f-9050-79f25a6df774">
+    <name>Макет</name>
+    <synonym>
+      <key>ru</key>
+      <value>Макет</value>
+    </synonym>
+  </templates>
 </mdclass:DataProcessor>

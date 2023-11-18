@@ -76,6 +76,21 @@
     <fullTextSearch>Use</fullTextSearch>
     <dataHistory>Use</dataHistory>
   </attributes>
+  <attributes uuid="87b3560d-ce0c-4835-b1f3-c41213712602">
+    <name>ЗавтракВключен</name>
+    <synonym>
+      <key>ru</key>
+      <value>Завтрак включен</value>
+    </synonym>
+    <type>
+      <types>Boolean</types>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fillValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <dataHistory>Use</dataHistory>
+  </attributes>
   <tabularSections uuid="6c2ed418-a16c-481c-bc8b-3e2968fca2e8">
     <producedTypes>
       <objectType typeId="2770e876-1afc-4c4c-b2ca-e3dd99b8d0da" valueTypeId="218d8c74-e6e9-47fc-8594-615f5091c8f1"/>
@@ -87,10 +102,10 @@
       <value>Постояльцы</value>
     </synonym>
     <attributes uuid="bb48c761-711d-4028-b47c-e41af6326d27">
-      <name>Постоялей</name>
+      <name>Постоялец</name>
       <synonym>
         <key>ru</key>
-        <value>Постоялей</value>
+        <value>Постоялец</value>
       </synonym>
       <type>
         <types>CatalogRef.Постояльцы</types>
